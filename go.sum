@@ -1,4 +1,8 @@
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/Depau/vnc2video v0.0.0-20200914210218-0e37b0945fb0 h1:DJ2h1CDOPCjzkH9lsPMMmCEIkV0xHfC+fTnsKbY4bYc=
+github.com/Depau/vnc2video v0.0.0-20200914210218-0e37b0945fb0/go.mod h1:zc4FYPGD82PqOVHtzkQiz7zHHxumVoVQ4Ij0RzvOIJQ=
+github.com/Depau/vnc2video v0.0.0-20200914210938-86aa002dd72b h1:qNFP7VhRSZou6tYQFQbO7gKPuJNs/DHksnXtTLS0+Fw=
+github.com/Depau/vnc2video v0.0.0-20200914210938-86aa002dd72b/go.mod h1:zc4FYPGD82PqOVHtzkQiz7zHHxumVoVQ4Ij0RzvOIJQ=
 github.com/amitbet/vnc2video v0.0.0-20190616012314-9d50b9dab1d9 h1:vYU4bpShNx2qwirTqqnGZ2wYicExu4q2lQNP4u7xafM=
 github.com/amitbet/vnc2video v0.0.0-20190616012314-9d50b9dab1d9/go.mod h1:zc4FYPGD82PqOVHtzkQiz7zHHxumVoVQ4Ij0RzvOIJQ=
 github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d h1:U+s90UTSYgptZMwQh2aRr3LuazLJIa+Pg3Kc1ylSYVY=

@@ -106,11 +106,11 @@ func recorder(c *cli.Context) error {
 
 	ccfg := &vnc.ClientConfig{
 		SecurityHandlers: secHandlers,
-		DrawCursor:       true,
-		PixelFormat:      vnc.PixelFormat32bit,
-		ClientMessageCh:  cchClient,
-		ServerMessageCh:  cchServer,
-		Messages:         vnc.DefaultServerMessages,
+		DrawCursor:      true,
+		PixelFormat:     vnc.PixelFormat32bit,
+		ClientMessageCh: cchClient,
+		ServerMessageCh: cchServer,
+		Messages:        vnc.DefaultServerMessages,
 		Encodings: []vnc.Encoding{
 			&vnc.RawEncoding{},
 			&vnc.TightEncoding{},

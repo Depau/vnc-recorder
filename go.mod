@@ -7,3 +7,5 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/urfave/cli v1.22.4
 )
+
+replace github.com/amitbet/vnc2video v0.0.0-20190616012314-9d50b9dab1d9 => github.com/Depau/vnc2video v0.0.0-20200914210938-86aa002dd72b
